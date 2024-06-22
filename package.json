@@ -1,6 +1,6 @@
 {
   "name": "@npmtuanmap/sed-quo-nemo-rerum",
-  "version": "1.4.51",
+  "version": "1.4.52",
   "description": " ",
   "main": "index.js",
   "author": "tuan149",
@@ -382,5 +382,5 @@
   "bugs": {
     "url": "https://github.com/npmtuanmap/sed-quo-nemo-rerum/issues"
   },
-  "packageManager": "yarn@4.3.0"
+  "packageManager": "yarn@4.3.1"
 }
